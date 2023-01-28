@@ -1,0 +1,13 @@
+.title{
+    font-weight: 600;
+    font-size: 60px;
+    color: #ffffff;
+    background-color: #e786b3;
+    display:flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+}
